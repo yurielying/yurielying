@@ -8,7 +8,7 @@
   </p>
   
 ---
-<img height="180" src="https://media.tenor.com/8UEgVlNOgXIAAAAC/cute.gif" align="right" />
+<img height="150" src="https://media.tenor.com/8UEgVlNOgXIAAAAC/cute.gif" align="right" />
 
 > <b>Aʙᴏᴜᴛ Mᴇ</b>
 
@@ -29,7 +29,7 @@
 - 📖 Mathematics
     
 ---
-<img height="120" src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" align="right" />
+<img height="105" src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" align="right" />
 
 > <b>ᴛʜɪɴɢs ᴛʜᴀᴛ ɪ ʜᴀᴠᴇ ʟᴇᴀʀɴᴛ ᴀɴᴅ ᴜsᴇᴅ</b>
 - 💻 <b>ˡᵃⁿᵍᵘᵃᵍᵉ</b> JavaScript, Python, Java, PHP, MySQL, C++, Arduino
