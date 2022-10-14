@@ -8,7 +8,7 @@
   </p>
   
 ---
-<img height="150" src="https://media.tenor.com/8UEgVlNOgXIAAAAC/cute.gif" align="right" />
+<img height="120" src="https://media.tenor.com/8UEgVlNOgXIAAAAC/cute.gif" align="right" />
 
 > <b>Aʙᴏᴜᴛ Mᴇ</b>
 
