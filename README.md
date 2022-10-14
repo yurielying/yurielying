@@ -8,7 +8,7 @@
   </p>
   
 ---
-<img height="120" src="https://media.tenor.com/8UEgVlNOgXIAAAAC/cute.gif" align="right" />
+<img height="150" src="https://media.tenor.com/8UEgVlNOgXIAAAAC/cute.gif" align="right" />
 
 > <b>Aʙᴏᴜᴛ Mᴇ</b>
 
@@ -18,7 +18,7 @@
 - 👩🏻‍🏫 <b>ᵒⁿ⁻ᵍᵒᶦⁿᵍ</b> JLPT N3, CompTIA Security+
 - 🌱 <b>ᵒᶜᶜᵘᵖᵃᵗᶦᵒⁿ</b> Free Lancer, Student (Bachelor in Applied Mathematics with Computing)
 ---
-<img height="220" src="https://pixeljoint.com/files/icons/full/cocefibookkeepersgarden.gif" align="left" />
+<img height="180" src="https://pixeljoint.com/files/icons/full/cocefibookkeepersgarden.gif" align="left" />
 
 > <b>ғɪᴇʟᴅ ᴏғ ɪɴᴛᴇʀᴇsᴛ</b>
 - 🔐 CyberSecurity
